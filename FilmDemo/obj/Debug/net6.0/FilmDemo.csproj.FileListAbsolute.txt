@@ -1,0 +1,15 @@
+C:\Users\GavinC\RiderProjects\FilmDemo\FilmDemo\bin\Debug\net6.0\FilmDemo.exe
+C:\Users\GavinC\RiderProjects\FilmDemo\FilmDemo\bin\Debug\net6.0\FilmDemo.deps.json
+C:\Users\GavinC\RiderProjects\FilmDemo\FilmDemo\bin\Debug\net6.0\FilmDemo.runtimeconfig.json
+C:\Users\GavinC\RiderProjects\FilmDemo\FilmDemo\bin\Debug\net6.0\FilmDemo.dll
+C:\Users\GavinC\RiderProjects\FilmDemo\FilmDemo\bin\Debug\net6.0\FilmDemo.pdb
+C:\Users\GavinC\RiderProjects\FilmDemo\FilmDemo\obj\Debug\net6.0\FilmDemo.csproj.AssemblyReference.cache
+C:\Users\GavinC\RiderProjects\FilmDemo\FilmDemo\obj\Debug\net6.0\FilmDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GavinC\RiderProjects\FilmDemo\FilmDemo\obj\Debug\net6.0\FilmDemo.AssemblyInfoInputs.cache
+C:\Users\GavinC\RiderProjects\FilmDemo\FilmDemo\obj\Debug\net6.0\FilmDemo.AssemblyInfo.cs
+C:\Users\GavinC\RiderProjects\FilmDemo\FilmDemo\obj\Debug\net6.0\FilmDemo.csproj.CoreCompileInputs.cache
+C:\Users\GavinC\RiderProjects\FilmDemo\FilmDemo\obj\Debug\net6.0\FilmDemo.dll
+C:\Users\GavinC\RiderProjects\FilmDemo\FilmDemo\obj\Debug\net6.0\refint\FilmDemo.dll
+C:\Users\GavinC\RiderProjects\FilmDemo\FilmDemo\obj\Debug\net6.0\FilmDemo.pdb
+C:\Users\GavinC\RiderProjects\FilmDemo\FilmDemo\obj\Debug\net6.0\FilmDemo.genruntimeconfig.cache
+C:\Users\GavinC\RiderProjects\FilmDemo\FilmDemo\obj\Debug\net6.0\ref\FilmDemo.dll
